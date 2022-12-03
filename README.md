@@ -7,13 +7,13 @@ Apartment at a discount (price per tenant)
 
 ## The process includes several steps:
 
-1. Issuing a certificate of eligibility to participate in the program
-2 . Registration for lotteries
-3 . The lottery
-4 . Exceptions committee for winners (if necessary)
-5 . Financing the apartment and getting a mortgage
-6 . Choosing an apartment and signing a contract
-7. Waiting for the apartment to be occupied (the winners will be informed about the progress of the project)
+* Issuing a certificate of eligibility to participate in the program
+*  Registration for lotteries
+* The lottery
+* Exceptions committee for winners (if necessary)
+* Financing the apartment and getting a mortgage
+* Choosing an apartment and signing a contract
+* Waiting for the apartment to be occupied (the winners will be informed about the progress of the project)
 
 ## Why ?
 
