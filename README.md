@@ -25,4 +25,4 @@ B. The contestant may miss out on many lotteries that suit their needs.
 
 ## Usage:
 
-![pic 1](https://user-images.githubusercontent.com/116564374/208238954-ec5af7c3-a5c3-442a-a020-6f126afb5f3c.jpeg)
+![](images/pic%201.jpeg)
