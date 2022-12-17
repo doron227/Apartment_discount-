@@ -25,11 +25,20 @@ B. The contestant may miss out on many lotteries that suit their needs.
 
 ## Usage:
 
-<img src="https://github.com/doron227/Dira-lottery-/blob/main/images/pic%2011.png" width="250" height="250" />
+**When the user runs the code, a window will appear
+In this window the user is asked to fill in several details.**
+<p align="center">
+<img src="https://github.com/doron227/Dira-lottery-/blob/main/images/pic%2011.png" width="500" height="500" />
 
+The user can enter up to 3 cities to which he wishes to receive an alert.
+Each of these choices includes a city (blue rectangle) and a price per square meter that he is willing to pay in this city.
+ 
+<p align="center">
+<img src="https://github.com/doron227/Dira-lottery-/blob/main/images/photo1.png" width="600" height="600" />
 
-
-When the user runs the code, a window will appear.
-### In this window the user is asked to fill in several details.
-
-![](images/pic%2011.png)
+The user has to enter an email - to which he will receive the notifications and the frequency of receiving the emails.
+Also, the user has to choose when to stop receiving the emails automatically.
+  <p align="center">
+<img src=" https://github.com/doron227/Dira-lottery-/blob/main/images/photo2.png" width="600" height="600" />
+    
+   
