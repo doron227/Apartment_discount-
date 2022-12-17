@@ -24,5 +24,4 @@ A. It requires a lot of time and investment.
 B. The contestant may miss out on many lotteries that suit their needs.
 
 ## Usage:
-
-![this is how it look](images/pic 1.jpeg)
+![](images/pic1.jpeg)
