@@ -25,9 +25,10 @@ B. The contestant may miss out on many lotteries that suit their needs.
 
 ## Usage:
 
-![](images/pic%2011.png)
+<img src"images/pic%2011.png" width="200">
 
 
 When the user runs the code, a window will appear.
 # In this window the user is asked to fill in several details.
 
+![](images/pic%2011.png)
