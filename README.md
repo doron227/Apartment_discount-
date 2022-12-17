@@ -38,7 +38,8 @@ Each of these choices includes a city (blue rectangle) and a price per square me
 
 The user has to enter an email - to which he will receive the notifications and the frequency of receiving the emails.
 Also, the user has to choose when to stop receiving the emails automatically.
-  <p align="center">
-<img src=" https://github.com/doron227/Dira-lottery-/blob/main/images/photo2.png" width="600" height="600" />
+  
+<p align="center">
+<img src="https://github.com/doron227/Dira-lottery-/blob/main/images/photo2.png " width="600" height="600" />
     
    
