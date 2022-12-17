@@ -25,10 +25,11 @@ B. The contestant may miss out on many lotteries that suit their needs.
 
 ## Usage:
 
-<img src"images/pic%2011.png" width="200">
+<img src="https://github.com/doron227/Dira-lottery-/blob/main/images/pic%2011.png" width="250" height="250" />
+
 
 
 When the user runs the code, a window will appear.
-# In this window the user is asked to fill in several details.
+### In this window the user is asked to fill in several details.
 
 ![](images/pic%2011.png)
