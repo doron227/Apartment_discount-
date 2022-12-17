@@ -25,7 +25,7 @@ B. The contestant may miss out on many lotteries that suit their needs.
 
 ## Usage:
 
-![](imajes/pic%2011.png)
+![](images/pic%2011.png)
 
 
 When the user runs the code, a window will appear.
