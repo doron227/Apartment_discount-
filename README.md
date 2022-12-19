@@ -1,6 +1,6 @@
 ## Description:
 
-The aim of the Three python scripts is to alert the user about the existence of potential lotteres in the city that are of interest and at an appropriate price for the  user. Apartment at a discount (price per tenant) or  "Discount Apartment" is the flagship program initiated by the State of Israel with the goal of making it easier and accessible for homeless people to purchase their first apartment under preferential conditions. "Discount apartment" is a general term for the variety of housing programs within the Ministry of Construction & Housing and the Israel Lands Authority. It’s definition includes target price, reduced price, price for tenants and apartments for rent.
+The aim of the Three python scripts is to alert the user about the existence of potential lotteres in the city that are of interest and at an appropriate price for the  user. Apartment at a discount (price per tenant) or  "Discount Apartment" is the flagship program initiated by the State of Israel with the goal of making it easier and accessible for non-home-owner people to purchase their first apartment under preferential conditions. "Discount apartment" is a general term for the variety of housing programs within the Ministry of Construction & Housing and the Israel Lands Authority. It’s definition includes target price, reduced price, price for tenants and apartments for rent.
 
 ## The process includes several steps:
 
