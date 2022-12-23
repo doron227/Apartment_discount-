@@ -18,6 +18,18 @@ a) A huge time commitment and investment.
 b) The contestant may miss out on  relevant lottery opportunities. 
 
 
+## requirements 
+
+* pyton 3 
+
+### Dira lottery relies on the following excellent packages:
+* os
+* tkinter
+* customtkinter
+* json
+* pandas
+* re
+
 
 ## Usage:
 **When the user runs the code, a window will appear. In this window the user will be asked to fill in several details.**
