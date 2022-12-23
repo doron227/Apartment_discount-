@@ -22,17 +22,19 @@ b) The contestant may miss out on  relevant lottery opportunities.
 ## Usage:
 **When the user runs the code, a window will appear. In this window the user will be asked to fill in several details.**
 <p align="center">
-<img src="https://github.com/doron227/Dira-lottery-/blob/main/images/pic%2011.png" width="500" height="500" />
+<img src="https://github.com/doron227/Dira-lottery-/blob/main/images/fig1.png" width="400" height="400" />
+ 
 
 The user can enter up to 3 cities with lotteries where he wishes to be alerted about. Each of these choices include a city (blue rectangle) and a price per square meter that he is willing to pay for the specific city .
  
 <p align="center">
-<img src="https://github.com/doron227/Dira-lottery-/blob/main/images/photo1.png" width="600" height="600" />
+<img src="https://github.com/doron227/Dira-lottery-/blob/main/images/fig2.png" width="500" height="500" />
+ 
 
 The user has to enter an email - to which he will receive the notifications and the frequency of receiving the emails.
 Also, the user has to choose when to stop receiving the emails automatically.
   
 <p align="center">
-<img src="https://github.com/doron227/Dira-lottery-/blob/main/images/photo2.png " width="600" height="400" />
+<img src="https://github.com/doron227/Dira-lottery-/blob/main/images/fig3.png" width="500" height="400" />
     
 **In addition** to the email which notifies on upcoming lotteries in a given city at a given price chosen by the user, the user will receive another email with a weekly update. This email officially updates on cities where the previous final price per square meter in the lottery is found to be lower than the average price per square meter in that city. In this list you can find 3-5 cities with the biggest discount.
