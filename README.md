@@ -35,6 +35,6 @@ The user has to enter an email - to which he will receive the notifications and 
 Also, the user has to choose when to stop receiving the emails automatically.
   
 <p align="center">
-<img src="https://github.com/doron227/Dira-lottery-/blob/main/images/fig3.png" width="500" height="400" />
+<img src="https://github.com/doron227/Dira-lottery-/blob/main/images/fig3.png" width="300" height="300" />
     
 **In addition** to the email which notifies on upcoming lotteries in a given city at a given price chosen by the user, the user will receive another email with a weekly update. This email officially updates on cities where the previous final price per square meter in the lottery is found to be lower than the average price per square meter in that city. In this list you can find 3-5 cities with the biggest discount.
