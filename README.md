@@ -33,6 +33,8 @@ b) The contestant may miss out on  relevant lottery opportunities.
 * matplotlib
 * seaborn
 * Stats
+* random
+* smtplib
 
 ## Usage:
 **When the user runs the code, a window will appear. In this window the user will be asked to fill in several details.**
