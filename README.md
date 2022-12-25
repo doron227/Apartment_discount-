@@ -22,14 +22,17 @@ b) The contestant may miss out on  relevant lottery opportunities.
 
 * pyton 3 
 
-### Dira lottery relies on the following excellent packages:
+### Dira lottery relies on the following packages:
 * os
 * tkinter
 * customtkinter
 * json
 * pandas
 * re
-
+* numpy  
+* matplotlib
+* seaborn
+* Stats
 
 ## Usage:
 **When the user runs the code, a window will appear. In this window the user will be asked to fill in several details.**
@@ -49,4 +52,4 @@ Also, the user has to choose when to stop receiving the emails automatically.
 <p align="center">
 <img src="https://github.com/doron227/Dira-lottery-/blob/main/images/fig3.png" width="450" height="200" />
     
-**In addition** to the email which notifies on upcoming lotteries in a given city at a given price chosen by the user, the user will receive another email with a weekly update. This email officially updates on cities where the previous final price per square meter in the lottery is found to be lower than the average price per square meter in that city. In this list you can find 3-5 cities with the biggest discount.
+**In addition** to the email which notifies on upcoming lotteries in a given city at a given price chosen by the user, the user will receive another email with a weekly update. This email officially updates on cities where the final price per square meter in the lottery is found to be lower than the average price per square meter in that city among the projects that are currently open. In this list you can find 3-5 cities with the biggest discount.
