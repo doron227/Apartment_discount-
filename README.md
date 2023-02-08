@@ -1,6 +1,6 @@
 ## Description:
 
-The aim of the Three python scripts is to alert the user about the existence of potential lotteres in the city that are of interest and at an appropriate price for the  user. Apartment at a discount (price per tenant) or  "Discount Apartment" is the flagship program initiated by the State of Israel with the goal of making it easier and accessible for non-home-owner people to purchase their first apartment under preferential conditions. "Discount apartment" is a general term for the variety of housing programs within the Ministry of Construction & Housing and the Israel Lands Authority. It’s definition includes target price, reduced price, price for tenants and apartments for rent.
+The aim of the four python scripts is to alert the user about the existence of potential lotteres in the city that are of interest and at an appropriate price for the  user. Apartment at a discount (price per tenant) or  "Discount Apartment" is the flagship program initiated by the State of Israel with the goal of making it easier and accessible for non-home-owner people to purchase their first apartment under preferential conditions. "Discount apartment" is a general term for the variety of housing programs within the Ministry of Construction & Housing and the Israel Lands Authority. It’s definition includes target price, reduced price, price for tenants and apartments for rent.
 
 ## The process includes several steps:
 
@@ -26,17 +26,25 @@ b) The contestant may miss out on  relevant lottery opportunities.
 * os
 * tkinter
 * customtkinter
+* tkinter
 * json
 * pandas
 * re
-* numpy  
-* matplotlib
-* seaborn
-* Stats
 * random
+* smtplib
+* sys
+* pathlib
+* Numpy
+* matplotlib.pyplot
+* Requests
+* email.mime.text
+* email.mime.multipart MIMEMultipart
+* email.mime.application
 * smtplib
 
 ## Usage:
+The user needs to download the four Python files to the same directory and run the file gui_dira
+
 **When the user runs the code, a window will appear. In this window the user will be asked to fill in several details.**
 <p align="center">
 <img src="https://github.com/doron227/Dira-lottery-/blob/main/images/fig1.png" width="400" height="400" />
@@ -54,4 +62,4 @@ Also, the user has to choose when to stop receiving the emails automatically.
 <p align="center">
 <img src="https://github.com/doron227/Dira-lottery-/blob/main/images/fig3.png" width="450" height="200" />
     
-**In addition** to the email which notifies on upcoming lotteries in a given city at a given price chosen by the user, the user will receive another email with a weekly update. This email officially updates on cities where the final price per square meter in the lottery is found to be lower than the average price per square meter in that city among the projects that are currently open. In this list you can find 3-5 cities with the biggest discount.
+**In addition** to the email informing about upcoming lotteries in a given city at a given price chosen by the user, the user will receive an additional email with a weekly/bimonthly/monthly update (according to his choice). This email contains a pptx presentation which contains information about what is the national average price per square meter in lotteries (in all cities), price Maximum and minimum price per square meter. In addition to this information, there is data about the average prices in the cities the user has selected.
