@@ -47,19 +47,19 @@ The user needs to download the four Python files to the same directory and run t
 
 **When the user runs the code, a window will appear. In this window the user will be asked to fill in several details.**
 <p align="center">
-<img src="https://github.com/doron227/Dira-lottery-/blob/main/images/fig1.png" width="400" height="400" />
+<img src="https://github.com/doron227/Dira-lottery-/blob/main/images/number1.png" width="400" height="400" />
  
 
 The user can enter up to 3 cities with lotteries where he wishes to be alerted about. Each of these choices include a city (blue rectangle) and a price per square meter that he is willing to pay for the specific city .
  
 <p align="center">
-<img src="https://github.com/doron227/Dira-lottery-/blob/main/images/fig2.png" width="500" height="500" />
+<img src="https://github.com/doron227/Dira-lottery-/blob/main/images/number2.png" width="500" height="500" />
  
 
 The user has to enter an email - to which he will receive the notifications and the frequency of receiving the emails.
 Also, the user has to choose when to stop receiving the emails automatically.
   
 <p align="center">
-<img src="https://github.com/doron227/Dira-lottery-/blob/main/images/fig3.png" width="450" height="200" />
+<img src="https://github.com/doron227/Dira-lottery-/blob/main/images/number%203.png" width="450" height="200" />
     
 **In addition** to the email informing about upcoming lotteries in a given city at a given price chosen by the user, the user will receive an additional email with a weekly/bimonthly/monthly update (according to his choice). This email contains a pptx presentation which contains information about what is the national average price per square meter in lotteries (in all cities),  Maximum and minimum price per square meter. In addition to this information, there is data about the average prices in the cities the user has selected.
