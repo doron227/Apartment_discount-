@@ -40,7 +40,7 @@ b) The contestant may miss out on  relevant lottery opportunities.
 * email.mime.text
 * email.mime.multipart MIMEMultipart
 * email.mime.application
-* smtplib
+
 
 ## Usage:
 The user needs to download the four Python files to the same directory and run the file gui_dira
