@@ -136,7 +136,7 @@ current_LamasCodes = list(set((pandas.DataFrame.from_dict(dira_json_data['result
 url_settlements = 'https://data.gov.il/api/3/action/datastore_search?resource_id=d4901968-dad3-4845-a9b0-a57d027f11ab&'
 settlements_data = dira_url_json(url_settlements)['result']['records']
 settlements_table = pandas.DataFrame.from_dict(settlements_data)
-settlements_LamasCode_to_english_dict = dict(zip(settlements_table.סמל_ישוב.astype(str), settlements_table.שם_ישוב_לועזי))
+settlements_LamasCode_to_english_dict = dict(zip(settlements_table.סמל_ישוב.astype(int), settlements_table.שם_ישוב_לועזי))
 
 settlments_english = sorted(list(map(settlements_LamasCode_to_english_dict.get, current_LamasCodes)))
 
