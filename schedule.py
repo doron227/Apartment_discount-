@@ -60,10 +60,10 @@ if file.exists():
     action = newtask.Actions.Create(TASK_ACTION_EXEC)
     action.id = 'Mail'
     action.Path = rf'{python_exe_directory}'
-    action.Arguments = rf'{current_directory} + /main_last.py'
+    action.Arguments = rf'{current_directory} + /main.py'
 
     # Parameters
-    newtask.RegistrationInfo.Description = 'DiraDiscountWeeklyUpdate'
+    newtask.RegistrationInfo.Description = 'DiraDiscountUpdate'
     newtask.Settings.Enabled = True
     newtask.Settings.StopIfGoingOnBatteries = False
 
@@ -71,7 +71,7 @@ if file.exists():
     TASK_CREATE_OR_UPDATE = 6
     TASK_LOGON_NONE = 0
     root_folder.RegisterTaskDefinition(
-        'PDUW',  # Python Dira Update Weekly
+        'PDU',  # Python Dira Update 
         newtask,
         TASK_CREATE_OR_UPDATE,
         '',  # No user
