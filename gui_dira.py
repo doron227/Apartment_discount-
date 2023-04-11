@@ -83,6 +83,7 @@ def check_otp(user_otp):
                 data = json.load(file)
         if data['allow automation'] == 1:
             import schedule
+            import main
         else:
             import main
 
