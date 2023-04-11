@@ -43,7 +43,7 @@ if file.exists():
 
     # Trigger
     set_time = dt.datetime.now() + dt.timedelta(minutes=scheduling_time)
-    end_time = dt.datetime.now() + dt.timedelta(hours=int_terminate*30*min_in_day)
+    end_time = dt.datetime.now() + dt.timedelta(hours=int_terminate*30*24)
     TASK_TRIGGER_TIME = 2
     trigger = newtask.Triggers.Create(TASK_TRIGGER_TIME)
     trigger.StartBoundary = set_time.isoformat()
@@ -52,7 +52,7 @@ if file.exists():
 
     # Repetition
     repetition_pattern = trigger.Repetition
-    repetition_pattern.Duration = "PT{}H".format(int_terminate*30*min_in_day)
+    repetition_pattern.Duration = "PT{}H".format(int_terminate*30*24)
     repetition_pattern.Interval = "PT{}M".format(scheduling_time)
 
     # Action
