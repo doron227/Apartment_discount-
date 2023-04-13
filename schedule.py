@@ -60,7 +60,7 @@ if file.exists():
     action = newtask.Actions.Create(TASK_ACTION_EXEC)
     action.id = 'Mail'
     action.Path = rf'{python_exe_directory}'
-    action.Arguments = rf'{current_directory} + /main.py'
+    action.Arguments = rf'{current_directory}/main.py'
 
     # Parameters
     newtask.RegistrationInfo.Description = 'DiraDiscountUpdate'
